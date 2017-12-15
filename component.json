@@ -1,0 +1,16 @@
+{
+  "name": "nodemailer",
+  "repo": "bijanmmarkes/nodemailer",
+  "description": "used for sending mail through node",
+  "version": "4.4.1",
+  "keywords": [
+    "smtp",
+    "mailer",
+    "debugger"
+  ],
+  "main": "lib/nodemailer.js",
+  "scripts": [],
+  "dependencies": {
+  }
+}
+

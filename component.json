@@ -8,8 +8,7 @@
     "mailer",
     "debugger"
   ],
-  "main": "lib/nodemailer.js",
-  "scripts": [],
+  "scripts": ["lib/nodemailer.js"],
   "dependencies": {
   }
 }
